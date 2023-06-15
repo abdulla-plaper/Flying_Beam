@@ -12,7 +12,8 @@ Flying beam technology involves using sensors and algorithms to analyze the char
 
 **Sorting mechanism**: Based on the analysis, the sorting machine activates appropriate tools, such as air jets or mechanical arms, to divert or separate the objects into different streams or collection bins which can also be replaced by actuators that we currently have.
 
-![image](https://github.com/abdulla-plaper/Flying_Beam/assets/132251249/b3fd1494-179b-44c0-8d66-ae40646b5149)
+![image](https://github.com/abdulla-plaper/Flying_Beam/assets/132251249/d1ae7483-2031-4415-b420-191d4c802285)
+
 
 Due to the unsuitability of the product offered by TOMRA(INNOSORT FLAKE) for our RVM, which has dimensions of approximately 2 meters in width and weighs 1000kg, we are unable to implement it. Therefore, we will need to undertake a DIY approach to develop and integrate the sensor ourselves.
 
